@@ -3389,6 +3389,5 @@ body {
   }
 
   .fxd {
-      position: fixed;
-      width: 70%;
+      position: sticky;
   }
